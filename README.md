@@ -1,9 +1,6 @@
 # agentskills-go
 
 [![CI](https://github.com/c8ab/agentskills-go/actions/workflows/ci.yml/badge.svg)](https://github.com/c8ab/agentskills-go/actions/workflows/ci.yml)
-[![Go Reference](https://pkg.go.dev/badge/github.com/c8ab/agentskills-go.svg)](https://pkg.go.dev/github.com/c8ab/agentskills-go)
-[![Go Report Card](https://goreportcard.com/badge/github.com/c8ab/agentskills-go)](https://goreportcard.com/report/github.com/c8ab/agentskills-go)
-[![codecov](https://codecov.io/gh/c8ab/agentskills-go/branch/main/graph/badge.svg)](https://codecov.io/gh/c8ab/agentskills-go)
 
 Go library for parsing and validating [Agent Skills](https://agentskills.dev) --
 an open format for teaching AI agents specialized workflows via `SKILL.md` files.

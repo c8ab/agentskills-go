@@ -65,12 +65,6 @@ system prompts:
 </available_skills>
 ```
 
-## Documentation
-
-See the [package documentation on pkg.go.dev](https://pkg.go.dev/github.com/c8ab/agentskills-go)
-for the full API reference, including all exported types, functions, and error
-types.
-
 ## License
 
 [Apache-2.0](LICENSE)
